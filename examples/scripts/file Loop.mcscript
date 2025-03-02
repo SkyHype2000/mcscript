@@ -1,4 +1,0 @@
-for(1,4){
-  #file: ./fileloop/$(i)
-  /test $(i)
-}

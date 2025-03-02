@@ -1,4 +1,0 @@
-#file: ./basic_loop
-for(1,5){
-  /say $(i)
-}
